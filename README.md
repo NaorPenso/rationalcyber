@@ -1,4 +1,4 @@
-![](images/logo-main.png)
+![](images/logo_main.png)
 
 # RationalCyber
 
