@@ -13,9 +13,8 @@ A repository containing schematics for an automated cyber security detection &am
 # The Rational stack for cyber operations:
 ![](images/stack.png)
 
-**Stack Modules
-| Name          | Open/Closed Source| Enterprise Support| Link  														|
-|:-------------|:-----------------| -----------------| :-------------------------------------------------------------:|
+## Stack Modules
+
 | Module        									| Description   																																																																									| 
 |:------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Log Source									   	| Generic module for log input which may vary between different systems, use-cases and organizations (e.g. Syslog, Windows Events, Netflow traffic etc.)																																							|
